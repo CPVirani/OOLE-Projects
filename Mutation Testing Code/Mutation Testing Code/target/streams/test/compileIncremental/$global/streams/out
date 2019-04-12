@@ -1,0 +1,23 @@
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating C:\Program Files\Java\jre1.8.0_144\lib\rt.jar: class java.lang.Object now provided by C:\Program Files\Java\jdk1.8.0_144\jre\lib\rt.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(C:\Program Files\Java\jre1.8.0_144\lib\rt.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(C:\Users\ADARSH\sketch11\test\core\modules\FloodFillTest.java, C:\Users\ADARSH\sketch11\test\core\ModelTest.java, C:\Users\ADARSH\sketch11\test\core\geom\StarTest.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Java sources to C:\Users\ADARSH\sketch11\target\scala-2.12\test-classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@767a34e4 directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.287039878 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.048910059 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.338165616 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m

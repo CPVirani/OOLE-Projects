@@ -1,0 +1,333 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/MutationLauncher/TestCases.java:2:1: com.sun.org.apache.xpath.internal.operations.Bool is internal proprietary API and may be removed in a future release[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.sun.org.apache.xpath.internal.operations.Bool;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:8:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0m  location: package core.geom[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.geom.Shapes;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:10:1: package core.geom.brush does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.geom.brush.ShapeBrush;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:11:1: package core.geom.brush does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.geom.brush.TextBrush;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:12:1: package core.geom.brush does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.geom.brush.WobbleBrush;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:13:1: package core.geom.brush does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.geom.brush.ZigZagBrush;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:14:1: package core.geom.tools does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.geom.tools.Eraser;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:15:1: package core.shape_interface.editor does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.shape_interface.editor.Control;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:16:1: package core.shape_interface.editor does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.shape_interface.editor.SStatus;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:17:1: package core.undo does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.undo.FillAction;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:18:1: package core.undo does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.undo.ShapeAction;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:19:1: package core.undo does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport core.undo.UndoManager;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:33:1: package resources does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport static resources.ModelConstants.*;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:34:1: package resources does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport resources.ViewConstants;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:35:1: package ui does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport ui.View;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:36:1: package ui.filesystem does not exist[0m
+[0m[[0m[31merror[0m] [0m[0mimport ui.filesystem.DocumentModel;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:44:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class View[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    protected View view;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:45:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    protected Shapes shape;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:46:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    protected Shapes copyShape;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:47:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DocumentModel[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    protected DocumentModel docModel;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:48:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class UndoManager[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    private UndoManager undoManager;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:70:1: package ViewConstants does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m    protected ViewConstants.STROKE_PRESET_MODEL brushType;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:81:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class View[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    public Model(View view) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:156:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DocumentModel[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    public DocumentModel getDocumentModel() {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:160:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class UndoManager[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    public UndoManager getUndoManager() {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:172:1: package ViewConstants does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m    public ViewConstants.STROKE_PRESET_MODEL getBrushType() {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:184:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    public Shapes getElement() {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:318:1: package ViewConstants does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m    public void setBrushType(ViewConstants.STROKE_PRESET_MODEL type) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:433:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m    public void registerShape(Shapes s) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:16:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0mpublic final class Curve extends Shapes {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/FreeShape.java:18:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class FreeShape extends Shapes {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Line.java:16:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class Line extends Shapes {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Oval.java:19:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class Oval extends Shapes {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Rect.java:19:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol: class Shapes[0m
+[0m[[0m[31merror[0m] [0m[0mpublic class Rect extends Shapes {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:84:1: package ViewConstants does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m        brushType = ViewConstants.STROKE_PRESET_MODEL.PLAIN;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:86:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable DEF_STROKE_SIZE[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        strokeSize = DEF_STROKE_SIZE;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:91:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable DEF_IMAGE_W[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        CANVAS_W = DEF_IMAGE_W;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:92:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable DEF_IMAGE_H[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        CANVAS_H = DEF_IMAGE_H;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:94:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable DEF_PRIMARY_COLOR[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        primaryColor = DEF_PRIMARY_COLOR;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:95:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable DEF_SECONDARY_COLOR[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        secondaryColor = DEF_SECONDARY_COLOR;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:96:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable DEF_PAD_COLOR[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        padColor = DEF_PAD_COLOR;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:102:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class UndoManager[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        undoManager = new UndoManager();       [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:103:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class DocumentModel[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        docModel = new DocumentModel(view);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:108:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable PLAIN[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m            case PLAIN:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:112:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable WOBBLE[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m            case WOBBLE:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:113:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class WobbleBrush[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                brush = new WobbleBrush(strokeSize);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:115:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable ZIGZAG[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m            case ZIGZAG:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:116:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ZigZagBrush[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                brush = new ZigZagBrush(new BasicStroke(strokeSize, [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:119:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SHAPE[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m            case SHAPE:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:120:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ShapeBrush[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                brush = new ShapeBrush(new Shape[] {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:123:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable ShapeBrush[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                }, strokeSize * ShapeBrush.APPARENT_GAP);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:126:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TXT[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m            case TXT:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:127:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class TextBrush[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                brush = new TextBrush(DEF_BRUSH_FONT.deriveFont(strokeSize + 8), [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:127:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable DEF_BRUSH_FONT[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                brush = new TextBrush(DEF_BRUSH_FONT.deriveFont(strokeSize + 8), [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:128:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable TextBrush[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (strokeSize + 8) * TextBrush.APPARENT_GAP);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:203:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m            r.setBounds((int) (minx - strokeSize / 2 - Control.SIZE),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:204:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                    (int) (miny - strokeSize / 2 - Control.SIZE),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:205:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                    (int) (r.getMaxX() + strokeSize + Control.SIZE * 2),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:206:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                    (int) (r.getMaxY() + strokeSize + Control.SIZE * 2));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:209:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m            if (!SStatus.usable) {[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:210:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                r.setBounds((int) (minx - strokeSize / 2 - Control.SIZE),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:211:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (int) (miny - 25 - strokeSize / 2 - Control.SIZE),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:212:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (int) (r.getMaxX() + strokeSize + Control.SIZE * 2),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:213:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (int) (r.getMaxY() + strokeSize + Control.SIZE * 2 + 25));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:215:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                minx = SStatus.DRAGX < 0 ? 0 : SStatus.DRAGX < minx ? SStatus.DRAGX : minx; [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:215:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                minx = SStatus.DRAGX < 0 ? 0 : SStatus.DRAGX < minx ? SStatus.DRAGX : minx; [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:215:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                minx = SStatus.DRAGX < 0 ? 0 : SStatus.DRAGX < minx ? SStatus.DRAGX : minx; [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:216:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                miny = SStatus.DRAGY < 0 ? 0 : SStatus.DRAGX < miny ? SStatus.DRAGY : miny;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:216:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                miny = SStatus.DRAGY < 0 ? 0 : SStatus.DRAGX < miny ? SStatus.DRAGY : miny;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:216:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                miny = SStatus.DRAGY < 0 ? 0 : SStatus.DRAGX < miny ? SStatus.DRAGY : miny;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:218:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                r.setBounds((int) (minx - strokeSize / 2 - Control.SIZE),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:219:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (int) (miny - 25 - strokeSize / 2 - Control.SIZE),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:220:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (int) (Math.max(r.getMaxX(), SStatus.DRAGX) + strokeSize + Control.SIZE * 2),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:220:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (int) (Math.max(r.getMaxX(), SStatus.DRAGX) + strokeSize + Control.SIZE * 2),[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:221:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable SStatus[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (int) (Math.max(r.getMaxY(), SStatus.DRAGY) + strokeSize + Control.SIZE * 2 + 25));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:221:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable Control[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                        (int) (Math.max(r.getMaxY(), SStatus.DRAGY) + strokeSize + Control.SIZE * 2 + 25));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:378:1: package View does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m                case View.FlipAction.HFLIP:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:381:1: package View does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m                case View.FlipAction.VFLIP:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:394:1: package View does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m                case View.RotateAction.ROTL:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:397:1: package View does not exist[0m
+[0m[[0m[31merror[0m] [0m[0m                case View.RotateAction.ROTR:[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:440:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class ShapeAction[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m            undoManager.add(new ShapeAction(s));[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:495:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class FillAction[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        FillAction fa = new FillAction(primaryColor, p);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:495:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class FillAction[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m        FillAction fa = new FillAction(primaryColor, p);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/Model.java:567:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class Eraser[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.Model[0m
+[0m[[0m[31merror[0m] [0m[0m                shape = new Eraser(s);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:22:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable type[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.geom.Curve[0m
+[0m[[0m[31merror[0m] [0m[0m        type = Model.TOOLS.CURVE;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:29:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable type[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.geom.Curve[0m
+[0m[[0m[31merror[0m] [0m[0m        type = Model.TOOLS.CURVE;[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:32:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:37:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:53:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:112:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:118:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:123:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:128:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:138:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:148:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:151:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable antialias[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.geom.Curve[0m
+[0m[[0m[31merror[0m] [0m[0m        c.setAntialias(antialias);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:152:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable fill[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.geom.Curve[0m
+[0m[[0m[31merror[0m] [0m[0m        c.setFill(fill);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:153:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable color[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.geom.Curve[0m
+[0m[[0m[31merror[0m] [0m[0m        c.setColor(color);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:154:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   variable stroke[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class core.geom.Curve[0m
+[0m[[0m[31merror[0m] [0m[0m        c.setStroke(stroke);[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:160:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/core/geom/Curve.java:163:1: method does not override or implement a method from a supertype[0m
+[0m[[0m[31merror[0m] [0m[0m    @Override[0m
+[0m[[0m[0minfo[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/MutationInjection/AOR.java: Some input files use unchecked or unsafe operations.[0m
+[0m[[0m[0minfo[0m] [0m[0m/Users/sree/adarsh_janapareddyvenkata_sreetama_banerjee_charvi_virani/src/MutationInjection/AOR.java: Recompile with -Xlint:unchecked for details.[0m
