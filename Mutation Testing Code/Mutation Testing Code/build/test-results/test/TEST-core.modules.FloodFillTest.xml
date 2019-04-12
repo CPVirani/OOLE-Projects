@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="core.modules.FloodFillTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-11-10T16:14:36" hostname="DESKTOP-MVDIRET" time="0.198">
+  <properties/>
+  <testcase name="getIndex[0: testGetIndex(1,1) = 21]" classname="core.modules.FloodFillTest" time="0.195"/>
+  <testcase name="getIndex[1: testGetIndex(2,2) = 42]" classname="core.modules.FloodFillTest" time="0.0"/>
+  <testcase name="getIndex[2: testGetIndex(8,2) = 48]" classname="core.modules.FloodFillTest" time="0.0"/>
+  <testcase name="getIndex[3: testGetIndex(5,4) = 85]" classname="core.modules.FloodFillTest" time="0.0"/>
+  <testcase name="getIndex[4: testGetIndex(5,5) = 105]" classname="core.modules.FloodFillTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
