@@ -1,0 +1,6 @@
+Package Name: _ package core.modules _  Class: FloodFill _ Inside function getIndex: index declared at line 117
+Package Name: _ package core.modules _ Class: FloodFill _ Inside function getIndex  _ compute index with x+y
+Package Name: _ package core.modules _ Class: FloodFill _ Inside function getIndex _ resultant index: 101
+Package Name: package core.modulesClass: FloodFill Inside function fillRange: filL declared at line 135
+Package Name: package core.modules Class: FloodFill Inside function fillRange: compute filL with filL--
+Package Name: package core.modules Class: FloodFill Inside function fillRange: resultant filL: 3

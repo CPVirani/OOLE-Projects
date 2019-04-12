@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="sketch3-0"
+		module="sketch3-0$sources"
+		revision="0.1"
+		conf="runtime"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20171113224236"/>
+	<dependencies>
+		<module organisation="javassist" name="javassist">
+			<revision name="3.12.1.GA" status="release" pubdate="20101123012130" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.javassist.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="15">
+				<license name="MPL 1.1" url="http://www.mozilla.org/MPL/MPL-1.1.html"/>
+				<license name="LGPL 2.1" url="http://www.gnu.org/licenses/lgpl-2.1.html"/>
+				<metadata-artifact status="no" details="" size="2964" time="0" location="/Users/sree/.ivy2/cache/javassist/javassist/ivy-3.12.1.GA.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.12.1.GA" rev-constraint-default="3.12.1.GA" rev-constraint-dynamic="3.12.1.GA" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="javassist" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="495186" time="0" location="/Users/sree/.ivy2/cache/javassist/javassist/srcs/javassist-3.12.1.GA-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/javassist/javassist/3.12.1.GA/javassist-3.12.1.GA-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jdt" name="org.eclipse.jdt.annotation">
+			<revision name="2.0.0" status="release" pubdate="20140815152823" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://repo.eclipse.org/content/repositories/eclipse-releases/org/eclipse/jdt/org.eclipse.jdt.annotation" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="14">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/legal/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="3341" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.jdt/org.eclipse.jdt.annotation/ivy-2.0.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jdt/org.eclipse.jdt.annotation/2.0.0/org.eclipse.jdt.annotation-2.0.0.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="2.0.0" rev-constraint-default="2.0.0" rev-constraint-dynamic="2.0.0" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.jdt.annotation" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="6400" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.jdt/org.eclipse.jdt.annotation/srcs/org.eclipse.jdt.annotation-2.0.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jdt/org.eclipse.jdt.annotation/2.0.0/org.eclipse.jdt.annotation-2.0.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jdt.core.compiler" name="ecj">
+			<revision name="4.4.2" status="release" pubdate="20150304081654" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org/jdt/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="13">
+				<license name="Eclipse Public License v1.0" url="http://www.eclipse.org/org/documents/epl-v10.php"/>
+				<metadata-artifact status="no" details="" size="2946" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.jdt.core.compiler/ecj/ivy-4.4.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="4.4.2" rev-constraint-default="4.4.2" rev-constraint-dynamic="4.4.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="ecj" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="1764959" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.jdt.core.compiler/ecj/srcs/ecj-4.4.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.scala-lang" name="scala-library">
+			<revision name="2.12.3" status="release" pubdate="20170725054730" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.3/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="9">
+				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
+				<metadata-artifact status="no" details="" size="2653" time="0" location="/Users/sree/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="2.12.3" rev-constraint-default="2.12.3" rev-constraint-dynamic="2.12.3" callerrev="0.1" extra-info.apiURL="http://www.scala-lang.org/api/2.12.3/"/>
+				<artifacts>
+					<artifact name="scala-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="990602" time="0" location="/Users/sree/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.3-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.3/scala-library-2.12.3-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.jdt" name="org.eclipse.jdt.core">
+			<revision name="3.10.0" status="release" pubdate="20150202091916" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="8">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="3327" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.jdt/org.eclipse.jdt.core/ivy-3.10.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/jdt/org.eclipse.jdt.core/3.10.0/org.eclipse.jdt.core-3.10.0.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.10.0" rev-constraint-default="3.10.0" rev-constraint-dynamic="3.10.0" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.jdt.core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="0" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.jdt/org.eclipse.jdt.core/srcs/org.eclipse.jdt.core-3.10.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/jdt/org.eclipse.jdt.core/3.10.0/org.eclipse.jdt.core-3.10.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.text" name="org.eclipse.text">
+			<revision name="3.5.101" status="release" pubdate="20131023150749" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="16">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2846" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.text/org.eclipse.text/ivy-3.5.101.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/text/org.eclipse.text/3.5.101/org.eclipse.text-3.5.101.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.5.101" rev-constraint-default="3.5.101" rev-constraint-dynamic="3.5.101" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.text" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.text/org.eclipse.text/srcs/org.eclipse.text-3.5.101-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/text/org.eclipse.text/3.5.101/org.eclipse.text-3.5.101-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.core" name="org.eclipse.core.resources">
+			<revision name="3.7.100" status="release" pubdate="20131023154640" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="19">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="3187" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.resources/ivy-3.7.100.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.resources/3.7.100/org.eclipse.core.resources-3.7.100.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.7.100" rev-constraint-default="3.7.100" rev-constraint-dynamic="3.7.100" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.core.resources" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.resources/srcs/org.eclipse.core.resources-3.7.100-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.resources/3.7.100/org.eclipse.core.resources-3.7.100-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.core" name="org.eclipse.core.filesystem">
+			<revision name="1.3.100" status="release" pubdate="20131023151518" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="17">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="3040" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.filesystem/ivy-1.3.100.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.filesystem/1.3.100/org.eclipse.core.filesystem-1.3.100.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="1.3.100" rev-constraint-default="1.3.100" rev-constraint-dynamic="1.3.100" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.core.filesystem" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.filesystem/srcs/org.eclipse.core.filesystem-1.3.100-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.filesystem/1.3.100/org.eclipse.core.filesystem-1.3.100-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.core" name="org.eclipse.core.commands">
+			<revision name="3.6.0" status="release" pubdate="20131023141623" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="7">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2522" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.commands/ivy-3.6.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.commands/3.6.0/org.eclipse.core.commands-3.6.0.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.6.0" rev-constraint-default="3.6.0" rev-constraint-dynamic="3.6.0" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.core.commands" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="141261" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.commands/srcs/org.eclipse.core.commands-3.6.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.commands/3.6.0/org.eclipse.core.commands-3.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.core" name="org.eclipse.core.expressions">
+			<revision name="3.4.300" status="release" pubdate="20131023154340" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2720" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.expressions/ivy-3.4.300.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.expressions/3.4.300/org.eclipse.core.expressions-3.4.300.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.4.300" rev-constraint-default="3.4.300" rev-constraint-dynamic="3.4.300" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.core.expressions" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.expressions/srcs/org.eclipse.core.expressions-3.4.300-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.expressions/3.4.300/org.eclipse.core.expressions-3.4.300-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.core" name="org.eclipse.core.runtime">
+			<revision name="3.7.0" status="release" pubdate="20131023152935" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master" position="12">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="3843" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.runtime/ivy-3.7.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.runtime/3.7.0/org.eclipse.core.runtime-3.7.0.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.7.0" rev-constraint-default="3.7.0" rev-constraint-dynamic="3.7.0" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.core.runtime" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.runtime/srcs/org.eclipse.core.runtime-3.7.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.runtime/3.7.0/org.eclipse.core.runtime-3.7.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.equinox" name="org.eclipse.equinox.app">
+			<revision name="1.3.100" status="release" pubdate="20131029090229" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2526" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.equinox/org.eclipse.equinox.app/ivy-1.3.100.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/equinox/org.eclipse.equinox.app/1.3.100/org.eclipse.equinox.app-1.3.100.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="1.3.100" rev-constraint-default="1.3.100" rev-constraint-dynamic="1.3.100" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.equinox.app" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.equinox/org.eclipse.equinox.app/srcs/org.eclipse.equinox.app-1.3.100-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/equinox/org.eclipse.equinox.app/1.3.100/org.eclipse.equinox.app-1.3.100-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.core" name="org.eclipse.core.contenttype">
+			<revision name="3.4.100" status="release" pubdate="20131023151044" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="11">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="3068" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.contenttype/ivy-3.4.100.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.contenttype/3.4.100/org.eclipse.core.contenttype-3.4.100.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.4.100" rev-constraint-default="3.4.100" rev-constraint-dynamic="3.4.100" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.core.contenttype" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.contenttype/srcs/org.eclipse.core.contenttype-3.4.100-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.contenttype/3.4.100/org.eclipse.core.contenttype-3.4.100-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.equinox" name="org.eclipse.equinox.preferences">
+			<revision name="3.4.1" status="release" pubdate="20131023134851" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="6">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2891" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.equinox/org.eclipse.equinox.preferences/ivy-3.4.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/equinox/org.eclipse.equinox.preferences/3.4.1/org.eclipse.equinox.preferences-3.4.1.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.4.1" rev-constraint-default="3.4.1" rev-constraint-dynamic="3.4.1" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.equinox.preferences" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.equinox/org.eclipse.equinox.preferences/srcs/org.eclipse.equinox.preferences-3.4.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/equinox/org.eclipse.equinox.preferences/3.4.1/org.eclipse.equinox.preferences-3.4.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.equinox" name="org.eclipse.equinox.registry">
+			<revision name="3.5.101" status="release" pubdate="20131023134140" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2735" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.equinox/org.eclipse.equinox.registry/ivy-3.5.101.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/equinox/org.eclipse.equinox.registry/3.5.101/org.eclipse.equinox.registry-3.5.101.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.5.101" rev-constraint-default="3.5.101" rev-constraint-dynamic="3.5.101" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.equinox.registry" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.equinox/org.eclipse.equinox.registry/srcs/org.eclipse.equinox.registry-3.5.101-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/equinox/org.eclipse.equinox.registry/3.5.101/org.eclipse.equinox.registry-3.5.101-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.core" name="org.eclipse.core.jobs">
+			<revision name="3.5.100" status="release" pubdate="20131023152121" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2714" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.jobs/ivy-3.5.100.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.jobs/3.5.100/org.eclipse.core.jobs-3.5.100.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.5.100" rev-constraint-default="3.5.100" rev-constraint-dynamic="3.5.100" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.core.jobs" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.core/org.eclipse.core.jobs/srcs/org.eclipse.core.jobs-3.5.100-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/core/org.eclipse.core.jobs/3.5.100/org.eclipse.core.jobs-3.5.100-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.equinox" name="org.eclipse.equinox.common">
+			<revision name="3.6.0" status="release" pubdate="20131023105238" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="18">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2528" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.equinox/org.eclipse.equinox.common/ivy-3.6.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/equinox/org.eclipse.equinox.common/3.6.0/org.eclipse.equinox.common-3.6.0.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.6.0" rev-constraint-default="3.6.0" rev-constraint-dynamic="3.6.0" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.equinox.common" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.equinox/org.eclipse.equinox.common/srcs/org.eclipse.equinox.common-3.6.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/equinox/org.eclipse.equinox.common/3.6.0/org.eclipse.equinox.common-3.6.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.apache.commons" name="commons-io">
+			<revision name="1.3.2" status="release" pubdate="20121009142851" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+				<metadata-artifact status="no" details="" size="2527" time="0" location="/Users/sree/.ivy2/cache/org.apache.commons/commons-io/ivy-1.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/apache/commons/commons-io/1.3.2/commons-io-1.3.2.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="1.3.2" rev-constraint-default="1.3.2" rev-constraint-dynamic="1.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="commons-io" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="135544" time="0" location="/Users/sree/.ivy2/cache/org.apache.commons/commons-io/srcs/commons-io-1.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/apache/commons/commons-io/1.3.2/commons-io-1.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="commons-io" name="commons-io">
+			<revision name="1.3.2" status="release" pubdate="20080101150034" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jakarta.apache.org/commons/io/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, master" position="10">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3378" time="0" location="/Users/sree/.ivy2/cache/commons-io/commons-io/ivy-1.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="1.3.2" rev-constraint-default="1.3.2" rev-constraint-dynamic="1.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="commons-io" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="135544" time="0" location="/Users/sree/.ivy2/cache/commons-io/commons-io/srcs/commons-io-1.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.eclipse.osgi" name="org.eclipse.osgi">
+			<revision name="3.7.1" status="release" pubdate="20131023135826" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.eclipse.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="0">
+				<license name="Eclipse Public License - v 1.0" url="http://www.eclipse.org/org/documents/epl-v10.html"/>
+				<metadata-artifact status="no" details="" size="2496" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.osgi/org.eclipse.osgi/ivy-3.7.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/eclipse/osgi/org.eclipse.osgi/3.7.1/org.eclipse.osgi-3.7.1.pom"/>
+				<caller organisation="sketch3-0" name="sketch3-0$sources" conf="compile, runtime" rev="3.7.1" rev-constraint-default="3.7.1" rev-constraint-dynamic="3.7.1" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="org.eclipse.osgi" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="437" time="0" location="/Users/sree/.ivy2/cache/org.eclipse.osgi/org.eclipse.osgi/srcs/org.eclipse.osgi-3.7.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/eclipse/osgi/org.eclipse.osgi/3.7.1/org.eclipse.osgi-3.7.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+	</dependencies>
+</ivy-report>
