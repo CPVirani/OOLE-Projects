@@ -1,0 +1,10 @@
+NumberOfClasses 2
+NumberOfLines 8
+AllowedTypes int float double string
+NoOfParametersPerMethod 3
+maxNoOfMethodsPerClass 5
+maxInterfacesToImplement 5
+AllowArray yes
+NumberOfInterfaces 5
+maxAllowedMethodCalls 5
+maxValueForLoop 5
