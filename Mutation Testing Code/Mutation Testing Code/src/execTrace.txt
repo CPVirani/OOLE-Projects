@@ -1,0 +1,41 @@
+
+
+Package Name: package core.modules Class: FloodFill Inside function getIndex : index declared at line 117
+Package Name: package core.modules Class: FloodFill Inside function getIndex compute index with 20 * y + x
+Package Name: package core.modules Class: FloodFill Inside function getIndex resultant index: 101
+
+
+Package Name: package core.modules Class: FloodFill Inside function fillRanges: filL declared at line 135
+Package Name: package core.modules Class: FloodFill Inside function fillRanges compute filL with filL--
+Package Name: package core.modules Class: FloodFill Inside function fillRanges: resultant filL: 3
+
+
+Package Name: package core.geom Class: Line Inside function Resize at line 71 if condition with expr x2 < x1
+Package Name: package core.geom Class: Line at line 85 if block executed. slope= 1.0
+
+
+Package Name: package core.geom Class: FreeShape Inside function RectRotate at line 169 if condition with expr dx == 0 || dy == 0
+Package Name: package core.geom Class: FreeShape at line 179 if block executed. exceptionChecker= 1
+
+
+Package Name: package core.geom Class: FreeShape Inside function Rotate at line 229 if condition with expr !no_rotation_apply
+Package Name: package core.geom Class: FreeShape at line 253 else block executed. prevAngle= 180.0 and no_rotation_apply: true
+
+
+Package Name: package core.geom Class: Oval Inside function checkTolerance red declared at line 95
+Package Name: package core.geom Class: Oval Inside function checkTolerance at line 95 red assigned with (2345 >> 16) & 0xff
+Package Name: package core.geom Class: Oval  red= 0
+
+
+Package Name: package core.geom Class: Oval Inside function BufferFill At line 123 fillSkew assigned with expr ~(pixel>>8)>250
+Package Name: package core.geom Class: Oval at line 132 if block executed. fillSkew=251
+
+
+Package Name: package core.geom Class: Curve Inside function checktolerator: checktol declared at line 35
+Package Name: package core.geom Class: Curve Inside function checktolerator calculate checktol with checktol+=4
+Package Name: package core.geom Class: Curve Inside function checktolerator resultant checktol: 8
+
+
+Package Name: package core.geom Class: Star Inside function getPoint at line 66 if condition with expr (point<<8)>0
+Package Name: package core.geom Class: Star at line 67 if block executed. point<<8= 1024
+Package Name: package core.geom Class: Rect Inside function RectReAllign at line 221 print Stmnt
